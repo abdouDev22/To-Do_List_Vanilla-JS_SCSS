@@ -1,8 +1,8 @@
-# To-Do List with React, Vite, Vanilla JS, and SCSS
+# To-Do List with Vite, Vanilla JS
 
 ## Overview
 
-This is a simple **To-Do List** application built using **ReactJS** and **Vite**. It is styled using **SCSS** and includes some custom **Vanilla JavaScript** functionalities. The purpose of this project is to demonstrate the basic principles of state management in React, as well as to provide a starting point for further development.
+This is a simple **To-Do List** application built using  **Vite**. It is styled using **SCSS** and includes some custom **Vanilla JavaScript** functionalities. The purpose of this project is to demonstrate the basic principles of state management in React, as well as to provide a starting point for further development.
 
 ## Features
 
