@@ -1,7 +1,3 @@
-Voici un exemple de contenu de fichier **README.md** pour ton projet de **To-Do List** en **ReactJS**, utilisant **Vite**, **Vanilla JS**, et **SCSS**. Ce modèle est complet et peut être adapté selon tes besoins.
-
----
-
 # To-Do List with React, Vite, Vanilla JS, and SCSS
 
 ## Overview
@@ -41,7 +37,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/abdouDev22/To-Do_List_Vanilla-JS_SCSS.git
    ```
 
 2. **Navigate into the project directory**:
@@ -104,7 +100,7 @@ We welcome contributions from the community! Here’s how you can get involved:
 
 ## Issues
 
-Feel free to report any issues or feature requests in the [Issues section](https://github.com/your-username/your-repository-name/issues).
+Feel free to report any issues or feature requests in the [Issues section](https://github.com/abdouDev22/To-Do_List_Vanilla-JS_SCSS/issues).
 
 ## License
 
